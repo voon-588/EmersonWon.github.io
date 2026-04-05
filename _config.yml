@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A junior in USTC, majoring in Prob/Stats"
   location         : "Hefei, PRC"
-  employer         : "University of Science and Technology of China"
+  employer         : "USTC"
   uri              : # URL
   email            : "Emersonwon@ustc.edu" 
 
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
