@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 # Introduction
-My name is Changhuan Wang (王畅焕 in Chinese), or you can call me by my English name Emerson Won. I am currently a junior (3rd-year undergraduate) in the School of Mathematical Sciences at University of Science and Technology of China, majoring in statistics.  
-My research interests lie in Statistical Inference (TBA)
+My name is *Changhuan Wang* (王畅焕 in Chinese), or you can call me by my English name *Emerson Won*. I am currently a junior (3rd-year undergraduate) in the School of Mathematical Sciences at University of Science and Technology of China, majoring in statistics.  
+  
+My research interests lie in Statistical Inference, Statistical Learning (TBA)
 
 
 # Contact
